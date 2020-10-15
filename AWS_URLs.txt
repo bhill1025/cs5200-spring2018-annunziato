@@ -1,0 +1,3 @@
+httpcs3200-env.eba-jfshapiq.us-east-2.elasticbeanstalk.comindex.html
+httpcs3200-env.eba-jfshapiq.us-east-2.elasticbeanstalk.comapihelloobject
+httpcs3200-env.eba-jfshapiq.us-east-2.elasticbeanstalk.comapihellostring
